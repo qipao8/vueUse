@@ -1,2 +1,5 @@
 # vueUse
-vue使用经验
+项目构建
+> npm create vue@2
+
+
